@@ -1,7 +1,7 @@
 export default async function handler(req, res) {
   const { userId } = req.query
 
-  const botToken = process.env.BOT_TOKEN
+  const botToken = "8688911798:AAHA73qNIXcOptnOI-0g2JtROAR0J-AwBSA"
   const channel = "-1002072323596"
 
   try {
