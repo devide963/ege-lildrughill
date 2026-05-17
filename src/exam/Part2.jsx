@@ -51,7 +51,7 @@ export default function Part2({ userId, onFinish }) {
 const styles = {
   page: {
     fontFamily: "Inter, sans-serif",
-    background: "#f5f9ff",
+    background: "#0000",
     minHeight: "100vh",
     display: "flex",
     justifyContent: "center",
