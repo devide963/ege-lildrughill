@@ -47,9 +47,9 @@ export default function App() {
     return <div>Loading...</div>
   }
 
-  if (status === "no-telegram") {
-    return <div>Open in Telegram</div>
-  }
+  // if (status === "no-telegram") {
+  //   return <div>Open in Telegram</div>
+  // }
 
   if (status === "not-sub") {
     return (
