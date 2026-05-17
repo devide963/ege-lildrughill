@@ -162,7 +162,7 @@ export default function App() {
 const styles = {
   page: {
     fontFamily: "Inter, sans-serif",
-    background: "#f5f9ff",
+    background: "#0000",
     minHeight: "100vh",
     display: "flex",
     justifyContent: "center",
